@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <rotate android:drawable="@drawable/ic_border_ring" />
+    </item>
+
+    <item
+        android:drawable="@drawable/ic_pixlogo"
+        android:width="180dp"
+        android:height="180dp"
+        android:gravity="center" />
+
+</layer-list>
+
