@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     @OnClick(R.id.btn_activate)
-    public void openYoutubePlaylist() {
+    public void activateSomething() {
         animateButton();
     }
 
